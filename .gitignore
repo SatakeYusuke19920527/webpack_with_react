@@ -103,4 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
+# 毎回pushして書き換えるのはやめとく
 /dist/main.js
