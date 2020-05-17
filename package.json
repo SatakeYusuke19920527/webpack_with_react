@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/SatakeYusuke19920527/webpack_with_react#readme",
   "devDependencies": {
+    "css-loader": "^3.5.3",
     "live-server": "^1.2.1",
+    "style-loader": "^1.2.1",
     "webpack": "^4.29.0",
     "webpack-cli": "^3.2.1",
     "webpack-dev-server": "^3.11.0"
