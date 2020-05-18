@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # 毎回pushして書き換えるのはやめとく
-/dist/main.js
+/dist
